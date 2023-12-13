@@ -1,0 +1,8 @@
+alert('exercicio Módulo 18')
+alert('exercicio Módulo 18')
+alert('exercicio Módulo 18')
+alert('exercicio Módulo 18')
+alert('exercicio Módulo 18')
+alert('exercicio Módulo 18')
+alert('exercicio Módulo 18')
+alert('exercicio Módulo 18')
